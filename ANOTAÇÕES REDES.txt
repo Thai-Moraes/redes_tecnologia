@@ -35,4 +35,11 @@ BASE 2: 0 1
 1 = ligado ou verdadeiro
 0 = desligado ou falso
 
+255 em binário?
+11111111
+
+255.255.255.192
+11111111.11111111.11111111.11000000
+
+
 
